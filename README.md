@@ -58,6 +58,7 @@
       <a href="https://github.com/sidharthvijayakumar" class="text-indigo-600 hover:underline">GitHub</a>
       <a href="https://www.linkedin.com/in/sidharth-vijayakumar/" class="text-indigo-600 hover:underline">LinkedIn</a>
       <a href="mailto:sidharthvijayakumar7@gmail.com" class="text-indigo-600 hover:underline">Email</a>
+      <a href="https://medium.com/@sidharthvijayakumar7" class="text-indigo-600 hover:underline">Blogs</a>
     </div>
   </section>
 
