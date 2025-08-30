@@ -57,17 +57,17 @@
   </style>
 </head>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
   <title>Sidharth Vijayakumar - DevOps Engineer</title>
   <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-50 text-gray-800 font-sans">
-  <!-- Header -->
-  <header class="bg-gradient-to-r from-indigo-600 to-blue-500 text-white p-8 text-center shadow-lg">
-    <h1 class="text-4xl font-bold mb-2">Hi, I'm Sidharth Vijayakumar</h1>
-    <p class="text-xl">DevOps Engineer | 5.5+ Years Experience</p>
+  </header>
+<body>
+  <header>
+    <h1>Hi, I'm Sidharth 👋</h1>
+    <p>DevOps Engineer | 5.5 years of experience</p>
+    <div class="counter">
+      <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+    </div>
   </header>
 
   <!-- About Me -->
