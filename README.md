@@ -60,13 +60,13 @@
   <head>
   <title>Sidharth Vijayakumar - DevOps Engineer</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  </header>
+  </head>
 <body>
   <header>
     <h1>Hi, I'm Sidharth 👋</h1>
     <p>DevOps Engineer | 5.5 years of experience</p>
     <div class="counter">
-      <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=sidharthvijayakumar&color=blue" alt="Profile Views" />
     </div>
   </header>
 
