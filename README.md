@@ -1,4 +1,61 @@
 <!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sidharth - DevOps Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0 1rem;
+      font-size: 1.2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      background: #222;
+      color: #fff;
+    }
+    .counter {
+      margin-top: 10px;
+    }
+  </style>
+</head>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -25,10 +82,10 @@
   <section class="bg-white max-w-4xl mx-auto p-8 rounded-2xl shadow-md mt-6">
     <h2 class="text-2xl font-semibold mb-4">Skills</h2>
     <ul class="grid grid-cols-2 gap-4 text-lg">
-      <li>☁️ AWS Cloud</li>
-      <li>⚙️ Terraform / IaC</li>
+      <li>☁️ AWS Cloud,Google Cloud</li>
+      <li>⚙️ Terraform & Opentofu / IaC</li>
       <li>🐳 Docker & Kubernetes</li>
-      <li>🚀 CI/CD (GitHub Actions, GitLab, Jenkins)</li>
+      <li>🚀 CI/CD (GitLab, GitHub Actions, Jenkins)</li>
       <li>📊 Monitoring (Prometheus, Grafana, ELK, Datadog)</li>
       <li>🔒 Security & Cost Optimization</li>
     </ul>
@@ -50,9 +107,9 @@
     <h2 class="text-2xl font-semibold mb-4">Get in Touch</h2>
     <p class="mb-4">I'm always open to new opportunities, collaborations, and DevOps discussions.</p>
     <div class="flex justify-center gap-6 text-lg">
-      <a href="https://github.com/your-github" class="text-indigo-600 hover:underline">GitHub</a>
-      <a href="https://linkedin.com/in/your-linkedin" class="text-indigo-600 hover:underline">LinkedIn</a>
-      <a href="mailto:your-email@example.com" class="text-indigo-600 hover:underline">Email</a>
+      <a href="https://github.com/sidharthvijayakumar/sidharthvijayakumar" class="text-indigo-600 hover:underline">GitHub</a>
+      <a href="https://www.linkedin.com/in/sidharth-vijayakumar/" class="text-indigo-600 hover:underline">LinkedIn</a>
+      <a href="mailto:sidharthvijayakumar7@gmail.com" class="text-indigo-600 hover:underline">Email</a>
     </div>
   </section>
 
