@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sidharth Vijayakumar - DevOps Engineer</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+  </style>
 </head>
 <body class="bg-gray-100 text-gray-800">
   <!-- Header -->
